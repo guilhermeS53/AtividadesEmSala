@@ -56,7 +56,7 @@ public class Animal {
         System.out.println("Animal\n\nNome: " + getNome());
         System.out.println("Comprimento: " + getComprimento());
         System.out.println("Ambiente: " + getAmbiente());
-        System.out.println("Número de Patas do ExercicioAnimalConstructor.Animal: " + getNumPatas());
+        System.out.println("Número de Patas " + getNumPatas());
         System.out.println("Velocidade Média: " + getVelMedia());
     }
 }
